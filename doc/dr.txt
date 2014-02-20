@@ -1,0 +1,7 @@
+ex04
+18/20
+
+ex04_4
+
+(-2) Année 10 : 44.20 ?
+At the end of year 10 value = 1383.58.
